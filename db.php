@@ -24,7 +24,7 @@ foreach ($result as $row){
 */
 
 
-
+/*
 // DB 동작 테스트 코드 - 현재 데이터베이스의 존재하는 테이블 목록 출력
 $result = $mysqli->query("SHOW TABLES;");
 echo ("Tables...<br><hr>");
@@ -33,3 +33,4 @@ foreach ($result as $row){
     //    print_r($row);
     echo $row['Tables_in_mirim'] . "<br>";
 }
+*/
